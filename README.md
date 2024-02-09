@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **web development**
+- 🌱 I’m **web developer**
 
 - 💬 Ask me about **mehedihasanshishir.info@gmail.com**
 
