@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehedi Hasan Shishir</h1>
 <h3 align="center">i am a junior MERN Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedishishir0&label=Profile%20views&color=0e75b6&style=flat" alt="mehedishishir0" /> </p>
+<img src={https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif}/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehedishishir0" alt="mehedishishir0" /></a> </p>
 
