@@ -19,12 +19,16 @@
 <p>
 <img src="https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" />
-<img src="https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=openjdk&logoColor=red" />
-<img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" />
+<!-- <img src="https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=openjdk&logoColor=red" /> -->
+<!-- <img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" /> -->
 <img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6" />
 <img src="https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" />
 <img src="https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=postgresql&logoColor=336791" />
+<img src="https://img.shields.io/badge/-MongoDb-000000?style=for-the-badge&logo=mongodb&logoColor=336791" />
+<img src="https://img.shields.io/badge/-NODE.JS-000000?style=for-the-badge&logo=nodejs&logoColor=336791" />
+<img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=expressjs&logoColor=336791" />
+  
 </p>
 
 ---
