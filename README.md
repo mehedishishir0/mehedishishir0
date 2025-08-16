@@ -1,41 +1,111 @@
-<h1 align="center">Hi 👋, I'm Mehedi Hasan Shishir</h1>
-<h3 align="center">i am a junior MERN Stack Developer</h3>
+<h2 align="center">Hi there 👋 I’m <a href="https://github.com/Danushka2">Mehedi Hasan Shishir</a></h2>
+<p align="center">
+  <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" height="160px" alt="GIF"/>
+</p>
 
-<img src={https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif}/>
+<h3 align="center">🚀 Full stack developer </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehedishishir0" alt="mehedishishir0" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/mehedishishir0" target="blank"><img src="https://img.shields.io/twitter/follow/mehedishishir0?logo=twitter&style=for-the-badge" alt="mehedishishir0" /></a> </p>
+### 👨‍💻 About Me
+- 💼 Working as a **Full Stack Developer** (Next.js, Node.js, Express, MongoDB, TypeScript)  
+- 🔭 Currently building **scalable web applications** and contributing to **real-world projects** at my company   
+- 🏆 Actively learning and practicing **Competitive Programming & Problem Solving**  
+- 🎨 Passionate about crafting clean UIs with **TailwindCSS, ShadCN UI, and TanStack Query**  
+- 💡 Future Goal: Grow as a **well-rounded engineer**, mastering both **system design** and **advanced algorithms** 🚀  
 
-- 💬 Ask me about **mehedihasanshishir.info@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mehedishishir0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mehedishishir0" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mehedi-hasan-shishir0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehedi-hasan-shishir0" height="30" width="40" /></a>
-<a href="https://fb.com/mehedihasanshishir00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mehedihasanshishir00" height="30" width="40" /></a>
-<a href="https://instagram.com/mehedihasanshishir0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehedihasanshishir0" height="30" width="40" /></a>
-</p> 
-  
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
- <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
- <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1024px-Socket-io.svg.png" alt="git" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQTN22n_MGsVpM4tDXIi22XaT2uvw2V3hdIhSX9fg3pLs3QJju6_uddGiaWzxJv7CYBalSH12fibb6VSQFWJ1mTRDSFx-e8XufxrXv79g" alt="git" width="40" height="40"/> </a> 
- </p>
+### 🛠 Languages I Use
+<p>
+<img src="https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" />
+<img src="https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=openjdk&logoColor=red" />
+<img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=postgresql&logoColor=336791" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedishishir0&show_icons=true&locale=en&layout=compact" alt="mehedishishir0" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehedishishir0&show_icons=true&locale=en" alt="mehedishishir0" /></p>
+### ⚡ Technologies & Tools
+<p>
+<img src="https://img.shields.io/badge/-Git-222222?style=for-the-badge&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/-GitHub-222222?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/-Linux-222222?style=for-the-badge&logo=linux&logoColor=FCC624" />
+<img src="https://img.shields.io/badge/-Node.js-222222?style=for-the-badge&logo=node.js&logoColor=339933" />
+<img src="https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/-MongoDB-001E2B?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+<img src="https://img.shields.io/badge/-TailwindCSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
+<img src="https://img.shields.io/badge/-ShadCN-18181B?style=for-the-badge&logo=shadcnui&logoColor=white" />
+<img src="https://img.shields.io/badge/-TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
+<img src="https://img.shields.io/badge/-Spring-222222?style=for-the-badge&logo=spring&logoColor=6DB33F" />
+<img src="https://img.shields.io/badge/-Docker-222222?style=for-the-badge&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/-Firebase-222222?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
+<img src="https://img.shields.io/badge/-Azure-222222?style=for-the-badge&logo=microsoft-azure&logoColor=0078D4" />
+<img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedishishir0&" alt="mehedishishir0" /></p>
+---
+
+<p align="center">💡 Credit: <a href="https://github.com/Danushka2">Danushka2</a></p>
+<p align="center">📝 Last updated on: 16/08/2025</p>
+<h2 align="center">Hi there 👋 I’m <a href="https://github.com/Danushka2">Danushka</a></h2>
+<p align="center">
+  <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" height="160px" alt="GIF"/>
+</p>
+
+<h3 align="center">🚀 Associate Software Engineer @ Acentura</h3>
+
+---
+
+### 👨‍💻 About Me
+- 🔭 Currently working on **Machine Learning** & **Data Mining** projects using **Python**  
+- 📚 Learning everything about **Frontend & Backend Technologies** 😅  
+- 💡 Future Goal: Keep learning, keep creating innovative ideas  
+
+---
+
+### 🛠 Languages I Use
+<p>
+<img src="https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" />
+<img src="https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=openjdk&logoColor=red" />
+<img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=postgresql&logoColor=336791" />
+</p>
+
+---
+
+### ⚡ Technologies & Tools
+<p>
+<img src="https://img.shields.io/badge/-Git-222222?style=for-the-badge&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/-GitHub-222222?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/-Linux-222222?style=for-the-badge&logo=linux&logoColor=FCC624" />
+<img src="https://img.shields.io/badge/-Node.js-222222?style=for-the-badge&logo=node.js&logoColor=339933" />
+<img src="https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/-MongoDB-001E2B?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+<img src="https://img.shields.io/badge/-TailwindCSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
+<img src="https://img.shields.io/badge/-ShadCN-18181B?style=for-the-badge&logo=shadcnui&logoColor=white" />
+<img src="https://img.shields.io/badge/-TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
+<img src="https://img.shields.io/badge/-Spring-222222?style=for-the-badge&logo=spring&logoColor=6DB33F" />
+<img src="https://img.shields.io/badge/-Docker-222222?style=for-the-badge&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/-Firebase-222222?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
+<img src="https://img.shields.io/badge/-Azure-222222?style=for-the-badge&logo=microsoft-azure&logoColor=0078D4" />
+<img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+</p>
+
+---
+
+<p align="center">💡 Credit: <a href="https://github.com/Danushka2">Danushka2</a></p>
+<p align="center">📝 Last updated on: 16/08/2025</p>
