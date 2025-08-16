@@ -55,3 +55,21 @@
 </p>
 
 ---
+
+
+<div align="center" bis_skin_checked="1">
+    <picture align="center">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+    </picture>
+</div>
+<p align="center"> 
+  </p><div align="center" bis_skin_checked="1">Visitor count</div>
+  <div align="center" bis_skin_checked="1">
+    <img src="https://profile-counter.glitch.me/Niefee/count.svg">
+  </div> 
+<p></p>
+<hr>
+<p>Credit: <a href="https://github.com/Niefee">Niefee</a>
+Last Edited on 16/08/2025</p> 
